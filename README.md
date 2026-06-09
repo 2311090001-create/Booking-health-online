@@ -1,4 +1,4 @@
-# 🏥 Đặt Lịch Hẹn Khám Sức Khỏe Online
+# 🏥 Đặt Lịch Hẹn Khám Sức Khỏe Online có tích hợp AI
 
 Ứng dụng web đặt lịch hẹn khám bệnh trực tuyến, xây dựng bằng **Python + Streamlit**.
 
