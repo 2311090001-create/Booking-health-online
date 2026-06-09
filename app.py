@@ -757,7 +757,7 @@ def page_send_reminders():
 
             for _, row in merged.iterrows():
                 st.markdown(f"""
-                <div style="background:white;border-radius:10px;padding:1rem 1.2rem;margin-bottom:8px;border:1px solid #e5e7eb;">
+                <div style="background:white;color:#111827;border-radius:10px;padding:1rem 1.2rem;margin-bottom:8px;border:1px solid #e5e7eb;">
                     <strong>{row.get('patient_name','N/A')}</strong> ({row.get('email','N/A')}) &nbsp;·&nbsp;
                     {row.get('appointment_time','')} &nbsp;·&nbsp;
                     {row.get('doctor_name','N/A')} &nbsp;·&nbsp; {row.get('specialty','N/A')}
