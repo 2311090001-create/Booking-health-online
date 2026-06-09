@@ -1,0 +1,21 @@
+doctor_id,doctor_name,specialty,clinic_id,experience_years
+D001,BS. Nguyễn Minh Tuấn,Nội khoa,C001,10
+D002,BS. Trần Thị Lan,Nội khoa,C002,8
+D003,BS. Lê Văn Hùng,Tim mạch,C012,15
+D004,BS. Phạm Thị Nga,Tim mạch,C002,12
+D005,BS. Hoàng Minh Đức,Nhi khoa,C008,9
+D006,BS. Vũ Thị Hồng,Nhi khoa,C001,7
+D007,BS. Đặng Văn Khoa,Sản phụ khoa,C009,11
+D008,BS. Bùi Thị Liên,Sản phụ khoa,C003,6
+D009,BS. Ngô Văn Mạnh,Ngoại khoa,C004,14
+D010,BS. Đinh Thị Nhung,Ngoại khoa,C006,10
+D011,BS. Trương Văn Quân,Mắt,C010,8
+D012,BS. Võ Thị Ry,Mắt,C005,5
+D013,BS. Lý Văn Sơn,Răng hàm mặt,C011,12
+D014,BS. Phan Thị Thu,Răng hàm mặt,C003,9
+D015,BS. Cao Văn Uy,Da liễu,C005,7
+D016,BS. Hà Thị Vân,Da liễu,C007,11
+D017,BS. Trịnh Văn Xuân,Thần kinh,C002,13
+D018,BS. Lưu Thị Yến,Thần kinh,C004,8
+D019,BS. Phùng Văn Zane,Cơ xương khớp,C006,10
+D020,BS. Kiều Thị Ân,Cơ xương khớp,C007,6

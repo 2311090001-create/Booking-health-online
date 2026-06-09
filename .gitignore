@@ -1,0 +1,11 @@
+# Bảo mật: không push secrets lên GitHub
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data (tùy chọn - bỏ comment nếu không muốn push dữ liệu)
+# data/*.csv

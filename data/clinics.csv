@@ -1,0 +1,13 @@
+clinic_id,clinic_name,distance_km,consultation_fee
+C001,Phòng Khám Đa Khoa Hoàn Mỹ,1.2,150000
+C002,Bệnh Viện Đa Khoa Tâm Anh,2.5,200000
+C003,Phòng Khám Victoria Healthcare,3.1,250000
+C004,Bệnh Viện FV,4.8,300000
+C005,Phòng Khám Columbia Asia,5.2,280000
+C006,Bệnh Viện Đa Khoa An Bình,6.0,120000
+C007,Phòng Khám Quốc Tế Raffles,7.3,350000
+C008,Bệnh Viện Nhi Đồng 1,2.8,100000
+C009,Phòng Khám Sản Phụ Khoa Hồng Ngọc,3.9,180000
+C010,Bệnh Viện Mắt Sài Gòn,4.2,160000
+C011,Phòng Khám Răng Hàm Mặt Nha Khoa,1.8,130000
+C012,Trung Tâm Tim Mạch Medlatec,5.7,220000
