@@ -45,7 +45,7 @@ Nếu thấy `Python 3.x.x` → OK. Nếu chưa có, tải tại https://python.
 ### Bước 2: Di chuyển vào thư mục dự án
 
 ```bash
-cd C:\Users\An\Documents\gemini-web
+cd 'Đường dẫn đến thư mục của dự án trên máy"
 ```
 
 ---
@@ -155,7 +155,7 @@ EMAIL_CONFIG = {
 4. Trigger: **Daily** lúc **08:00**
 5. Action: **Start a program**
    - Program: `python`
-   - Arguments: `C:\Users\An\Documents\gemini-web\send_reminders.py`
+   - Arguments: `gemini-web\send_reminders.py`
 6. Bấm Finish
 
 ### Kiểm tra thủ công:
