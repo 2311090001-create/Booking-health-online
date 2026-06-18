@@ -59,5 +59,5 @@ ADMIN_CONFIG = {
 # ============================================================
 # Khi deploy Streamlit Cloud: thêm vào Secrets với key "GEMINI_API_KEY"
 # Khi chạy local: dùng giá trị bên dưới
-GEMINI_API_KEY = "AIzaSyBX1UwC7DR4-Y7l-zUDKDQzPczFRQRNv2s"
+GEMINI_API_KEY = "AQ.Ab8RN6LTjtLaMmdrImAKfKsxvqOFh5Pac8-urhmWOBaozT9-PQ"
 
